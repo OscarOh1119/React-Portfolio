@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
           style={{ fontSize: "1.2rem", fontWeight: "bold" }}
         >
           <a
-            href=""
+            href="https://www.google.com/"
             style={{ color: "#254441ff", textDecoration: "none" }}
           >
             oscarisaacoh@gmail.com
@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
           style={{ fontSize: "1.2rem", fontWeight: "bold" }}
         >
           <a
-            href=""
+            href="https://www.google.com/"
             style={{ color: "#254441ff", textDecoration: "none" }}
           >
             Phone Number: 123-456-7890

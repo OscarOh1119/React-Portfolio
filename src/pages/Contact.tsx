@@ -13,7 +13,7 @@ const Contact: React.FC = () => {
         <p>
           <h1>Email:</h1>
           <a
-            href=""
+            href="https://www.google.com/"
             
           >
             oscarisaacoh@gmail.com
