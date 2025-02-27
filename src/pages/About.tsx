@@ -14,7 +14,7 @@ const About: React.FC = () => {
 
         <div className="col-md-6">
           <img
-            src="public\OOH.PNG"
+            src="/OOH.PNG"
             alt="pic"
             className="img-fluid"
           />

@@ -10,7 +10,7 @@ const Portfolio: React.FC = () => {
           <Project
             title="TV Czar"
             description="TV Czar is an application I built with my team to keep track of all the shows we watch as well as recommend them to the public"
-            imageUrl="public\TVCzar.PNG"
+            imageUrl="/TVCzar.PNG"
             projectUrl="https://github.com/OscarOh1119/project1-repo"
           />
         </div>
@@ -18,7 +18,7 @@ const Portfolio: React.FC = () => {
           <Project
             title="Lift Lab"
             description="Lift Lab is an application that allows the user to search exercises from a database and add their own"
-            imageUrl="public\Liftlab.PNG"
+            imageUrl="/Liftlab.PNG"
             projectUrl="https://github.com/marielmetalios/liftlab"
           />
         </div>
@@ -26,7 +26,7 @@ const Portfolio: React.FC = () => {
           <Project
             title="README generator"
             description="Allows the user to input basic text and transform it to markup for a README"
-            imageUrl="public\README.PNG"
+            imageUrl="/README.PNG"
             projectUrl="https://github.com/OscarOh1119/READMEgenerator"
           />
         </div>
